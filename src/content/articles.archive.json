@@ -1,8 +1,47 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-03T14:53:48.742Z",
+  "lastSyncedAt": "2026-09-10T15:56:11.225Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/e091cb47ac33",
+      "title": "What Actually Happens When a Kubernetes Node Goes Down?",
+      "url": "https://medium.com/kotaicode/what-actually-happens-when-a-kubernetes-node-goes-down-e091cb47ac33",
+      "publishedAt": "2026-09-10T09:31:01.000Z",
+      "topics": [
+        "software-engineering",
+        "aws",
+        "devops",
+        "cloud-computing",
+        "kubernetes"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/6cd321ef8542",
+      "title": "App-of-Apps vs ApplicationSets: Which Argo CD Pattern Should You Use?",
+      "url": "https://medium.com/kotaicode/app-of-apps-vs-applicationsets-which-argo-cd-pattern-should-you-use-6cd321ef8542",
+      "publishedAt": "2026-09-09T10:01:03.000Z",
+      "topics": [
+        "software-engineering",
+        "gitops",
+        "cloud-computing",
+        "kubernetes",
+        "devops"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/bead38d7d102",
+      "title": "AWS Disaster Recovery: Are You Actually Ready for an Outage?",
+      "url": "https://medium.com/kotaicode/aws-disaster-recovery-are-you-actually-ready-for-an-outage-bead38d7d102",
+      "publishedAt": "2026-09-04T09:41:00.000Z",
+      "topics": [
+        "devops",
+        "disaster-recovery",
+        "cloud-computing",
+        "software-engineering",
+        "aws"
+      ]
+    },
     {
       "guid": "https://medium.com/p/ff326b6e8085",
       "title": "AWS IAM Best Practices Most Engineers Learn Too Late",
