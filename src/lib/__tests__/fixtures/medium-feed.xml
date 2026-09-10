@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+  <channel>
+    <title><![CDATA[Stories by Tom Jose | DevOps on Medium]]></title>
+    <link>https://medium.com/@Tomjosetj31?source=rss-3769c583571b------2</link>
+    <item>
+      <title><![CDATA[How I Would Design GitOps for 100+ Kubernetes Clusters]]></title>
+      <link>https://medium.com/kotaicode/how-i-would-design-gitops-for-100-kubernetes-clusters-206a174a1c59?source=rss-3769c583571b------2</link>
+      <guid isPermaLink="false">https://medium.com/p/206a174a1c59</guid>
+      <category><![CDATA[software-engineering]]></category>
+      <category><![CDATA[cloud-computing]]></category>
+      <category><![CDATA[gitops]]></category>
+      <category><![CDATA[devops]]></category>
+      <category><![CDATA[kubernetes]]></category>
+      <dc:creator><![CDATA[Tom Jose | DevOps]]></dc:creator>
+      <pubDate>Wed, 02 Sep 2026 09:46:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>trimmed</p>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Reducing CI/CD Build Times by 70%]]></title>
+      <link>https://medium.com/kotaicode/reducing-ci-cd-build-times-by-70-abc123def456?source=rss-3769c583571b------2</link>
+      <guid isPermaLink="false">https://medium.com/p/abc123def456</guid>
+      <category><![CDATA[ci-cd-pipeline]]></category>
+      <dc:creator><![CDATA[Tom Jose | DevOps]]></dc:creator>
+      <pubDate>Thu, 20 Aug 2026 11:01:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>trimmed</p>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Post with an unparseable date]]></title>
+      <link>https://medium.com/p/badbadbad</link>
+      <guid isPermaLink="false">https://medium.com/p/badbadbad</guid>
+      <pubDate>not a date at all</pubDate>
+    </item>
+  </channel>
+</rss>

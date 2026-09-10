@@ -1,0 +1,36 @@
+:root {
+  /* aurora */
+  --aurora-violet: #7c3aed;
+  --aurora-cyan: #22d3ee;
+  --aurora-magenta: #e879f9;
+
+  /* chapter accents */
+  --accent-cyan: #22d3ee;
+  --accent-cyan-soft: #a5f3fc;
+  --accent-violet: #a78bfa;
+  --accent-teal: #2dd4bf;
+  --accent-indigo: #818cf8;
+  --status-green: #4ade80;
+  /* wip / archived product status treatments (ProductCard) */
+  --status-amber: #fbbf24;
+  --status-neutral: #94a3b8;
+
+  /* surfaces */
+  --bg: #05060f;
+  --glass-bg: rgba(255, 255, 255, 0.048);
+  --glass-border: rgba(255, 255, 255, 0.115);
+  --glass-blur: 14px;
+  --glass-scrim: rgba(5, 6, 15, 0.55);
+
+  /* text */
+  --text: #f4f6ff;
+  --text-2: rgba(244, 246, 255, 0.6);
+  --text-3: rgba(244, 246, 255, 0.38);
+
+  /* type */
+  --font-sans: 'Geist Variable', 'Helvetica Neue', system-ui, sans-serif;
+  --font-mono: 'Geist Mono Variable', ui-monospace, 'SF Mono', Menlo, monospace;
+
+  /* layout */
+  --measure: 900px;
+}

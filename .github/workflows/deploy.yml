@@ -1,28 +1,77 @@
-
-name: Deploy to GitHub Pages
+name: Build and deploy
 
 on:
   push:
-    branches:
-      - master
+    branches: [main]
+  schedule:
+    # Daily at 06:00 UTC — picks up overnight Medium posts.
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  build-and-deploy:
-    concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
-        run: |
-          npm ci
-          npm run build
-
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+      - uses: actions/setup-node@v4
         with:
-          folder: build # The folder the action should deploy.
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm run test
+
+      - name: Build
+        # prebuild runs sync:medium, so the archive is refreshed here.
+        env:
+          VITE_WEB3FORMS_KEY: ${{ secrets.WEB3FORMS_KEY }}
+        run: npm run build
+
+      - name: Commit refreshed article archive
+        # Only main has anywhere to push the archive back to — a workflow_dispatch
+        # on a feature branch must not commit it there.
+        if: github.ref == 'refs/heads/main'
+        run: |
+          if git diff --quiet -- src/content/articles.archive.json; then
+            echo "archive unchanged — nothing to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/content/articles.archive.json
+          git commit -m "chore: sync medium archive [skip ci]"
+          # main may have moved since checkout; rebase onto it before pushing. A
+          # build that already succeeded should still deploy even if this loses a
+          # race or the push itself fails — the archive will simply sync again on
+          # the next run, so neither failure should fail the job.
+          git pull --rebase origin main || echo "rebase failed — will retry on the next run"
+          git push || echo "archive push failed — will retry on the next run"
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

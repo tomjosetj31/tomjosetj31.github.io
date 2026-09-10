@@ -1,0 +1,137 @@
+{
+  "source": "https://medium.com/feed/@Tomjosetj31",
+  "firstSeenAt": "2026-09-03",
+  "lastSyncedAt": "2026-09-03T14:53:48.742Z",
+  "articles": [
+    {
+      "guid": "https://medium.com/p/ff326b6e8085",
+      "title": "AWS IAM Best Practices Most Engineers Learn Too Late",
+      "url": "https://medium.com/kotaicode/aws-iam-best-practices-most-engineers-learn-too-late-ff326b6e8085",
+      "publishedAt": "2026-09-03T09:46:00.000Z",
+      "topics": [
+        "software-engineering",
+        "aws",
+        "cloud-computing",
+        "devops",
+        "security"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/206a174a1c59",
+      "title": "How I Would Design GitOps for 100+ Kubernetes Clusters",
+      "url": "https://medium.com/kotaicode/how-i-would-design-gitops-for-100-kubernetes-clusters-206a174a1c59",
+      "publishedAt": "2026-09-02T09:46:00.000Z",
+      "topics": [
+        "software-engineering",
+        "cloud-computing",
+        "gitops",
+        "devops",
+        "kubernetes"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/b03295ce7ad5",
+      "title": "Stop Debugging Kubernetes Manually: Let AI Find the Root Cause",
+      "url": "https://medium.com/kotaicode/stop-debugging-kubernetes-manually-let-ai-find-the-root-cause-b03295ce7ad5",
+      "publishedAt": "2026-09-01T11:01:01.000Z",
+      "topics": [
+        "artificial-intelligence",
+        "software-engineering",
+        "devops",
+        "cloud-computing",
+        "kubernetes"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/8281e16a14ba",
+      "title": "GitOps Rollbacks: Why git revert Isn't Always Enough",
+      "url": "https://medium.com/kotaicode/gitops-rollbacks-why-git-revert-isnt-always-enough-8281e16a14ba",
+      "publishedAt": "2026-08-28T10:01:01.000Z",
+      "topics": [
+        "devops",
+        "software-engineering",
+        "kubernetes",
+        "gitops",
+        "cloud-computing"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/c36985a04133",
+      "title": "Why Your Docker Container Keeps Getting Killed",
+      "url": "https://medium.com/kotaicode/why-your-docker-container-keeps-getting-killed-c36985a04133",
+      "publishedAt": "2026-08-27T10:51:01.000Z",
+      "topics": [
+        "devops",
+        "kubernetes",
+        "software-engineering",
+        "docker",
+        "cloud-computing"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/c8cd71ed0b22",
+      "title": "What Happens When You Lose Your Terraform State?",
+      "url": "https://medium.com/kotaicode/what-happens-when-you-lose-your-terraform-state-c8cd71ed0b22",
+      "publishedAt": "2026-08-26T09:31:01.000Z",
+      "topics": [
+        "software-engineering",
+        "cloud-computing",
+        "aws",
+        "terraform",
+        "devops"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/589d2d4acd7c",
+      "title": "7 Kubernetes Storage Mistakes That Can Take Down Your Application",
+      "url": "https://medium.com/kotaicode/7-kubernetes-storage-mistakes-that-can-take-down-your-application-589d2d4acd7c",
+      "publishedAt": "2026-08-25T09:31:01.000Z",
+      "topics": [
+        "devops",
+        "aws",
+        "kubernetes",
+        "software-engineering",
+        "cloud-computing"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/522575f104f9",
+      "title": "Docker Compose Patterns for Large Applications",
+      "url": "https://medium.com/kotaicode/docker-compose-patterns-for-large-applications-522575f104f9",
+      "publishedAt": "2026-08-21T11:11:00.000Z",
+      "topics": [
+        "devops",
+        "docker",
+        "cloud-computing",
+        "kubernetes",
+        "software-engineering"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/25ac3d3b6df2",
+      "title": "Reducing CI/CD Build Times by 70%",
+      "url": "https://medium.com/kotaicode/reducing-ci-cd-build-times-by-70-25ac3d3b6df2",
+      "publishedAt": "2026-08-20T11:01:01.000Z",
+      "topics": [
+        "programming",
+        "devops",
+        "software-engineering",
+        "ci-cd-pipeline",
+        "cloud-computing"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/7bf79975a5c7",
+      "title": "Deploy Like a Pro: Zero-Downtime Deployments in Kubernetes",
+      "url": "https://medium.com/kotaicode/deploy-like-a-pro-zero-downtime-deployments-in-kubernetes-7bf79975a5c7",
+      "publishedAt": "2026-08-19T12:01:02.000Z",
+      "topics": [
+        "cloud-computing",
+        "software-engineering",
+        "devops",
+        "aws",
+        "kubernetes"
+      ]
+    }
+  ]
+}

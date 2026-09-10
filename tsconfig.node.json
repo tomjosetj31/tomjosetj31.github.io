@@ -1,0 +1,19 @@
+{
+  // noEmit is deliberately absent here: it conflicts with composite (TS6310).
+  // Nothing emits from this project (`scripts` runs under vite-node), so leave
+  // noEmit out rather than "fixing" a phantom error. tsconfig.json now typechecks
+  // scripts/ and vite.config.ts directly via its own "include", so this config is
+  // intentionally left unreferenced from it (a "references" pointing back here
+  // reintroduces TS6305, since the same files would then be owned by both configs).
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "skipLibCheck": true,
+    "composite": true,
+    "types": ["node"]
+  },
+  "include": ["vite.config.ts", "scripts"]
+}
