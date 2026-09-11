@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-10T15:56:11.225Z",
+  "lastSyncedAt": "2026-09-11T10:28:45.099Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/fa82cf4daefd",
+      "title": "Build a Production-Grade GitHub Actions + Argo CD Pipeline",
+      "url": "https://medium.com/kotaicode/build-a-production-grade-github-actions-argo-cd-pipeline-fa82cf4daefd",
+      "publishedAt": "2026-09-11T10:01:06.000Z",
+      "topics": [
+        "kubernetes",
+        "software-engineering",
+        "devops",
+        "cloud-computing",
+        "gitops"
+      ]
+    },
     {
       "guid": "https://medium.com/p/e091cb47ac33",
       "title": "What Actually Happens When a Kubernetes Node Goes Down?",
