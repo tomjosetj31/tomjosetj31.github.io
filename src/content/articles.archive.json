@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-11T10:28:45.099Z",
+  "lastSyncedAt": "2026-09-13T10:58:35.950Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/15c4498b9ff7",
+      "title": "Highly Available Multi-AZ Architecture on AWS: A Production Guide",
+      "url": "https://medium.com/kotaicode/highly-available-multi-az-architecture-on-aws-a-production-guide-15c4498b9ff7",
+      "publishedAt": "2026-09-13T10:01:08.000Z",
+      "topics": [
+        "cloud-architecture",
+        "aws",
+        "software-engineering",
+        "devops",
+        "cloud-computing"
+      ]
+    },
     {
       "guid": "https://medium.com/p/fa82cf4daefd",
       "title": "Build a Production-Grade GitHub Actions + Argo CD Pipeline",
