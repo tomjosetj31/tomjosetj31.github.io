@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-13T10:58:35.950Z",
+  "lastSyncedAt": "2026-09-14T11:33:33.275Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/5c423ee812fa",
+      "title": "Your CI/CD Pipeline Is Leaking Secrets. Here’s How to Find and Stop It.",
+      "url": "https://medium.com/kotaicode/your-ci-cd-pipeline-is-leaking-secrets-heres-how-to-find-and-stop-it-5c423ee812fa",
+      "publishedAt": "2026-09-14T10:01:03.000Z",
+      "topics": [
+        "devops",
+        "devsecops",
+        "cloud-security",
+        "software-engineering",
+        "cloud-computing"
+      ]
+    },
     {
       "guid": "https://medium.com/p/15c4498b9ff7",
       "title": "Highly Available Multi-AZ Architecture on AWS: A Production Guide",
