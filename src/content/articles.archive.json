@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-14T11:33:33.275Z",
+  "lastSyncedAt": "2026-09-15T10:53:24.962Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/059825e910c8",
+      "title": "Pod Disruption Budgets: The Production Safeguard Everyone Forgets",
+      "url": "https://medium.com/kotaicode/pod-disruption-budgets-the-production-safeguard-everyone-forgets-059825e910c8",
+      "publishedAt": "2026-09-15T10:01:03.000Z",
+      "topics": [
+        "cloud-computing",
+        "devops",
+        "software-engineering",
+        "kubernetes",
+        "aws"
+      ]
+    },
     {
       "guid": "https://medium.com/p/5c423ee812fa",
       "title": "Your CI/CD Pipeline Is Leaking Secrets. Here’s How to Find and Stop It.",
