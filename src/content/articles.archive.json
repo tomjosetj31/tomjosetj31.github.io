@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-15T10:53:24.962Z",
+  "lastSyncedAt": "2026-09-16T10:43:10.031Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/7b3468a1cf05",
+      "title": "Human-in-the-Loop AI Agents for Production Operations",
+      "url": "https://medium.com/kotaicode/human-in-the-loop-ai-agents-for-production-operations-7b3468a1cf05",
+      "publishedAt": "2026-09-16T10:01:03.000Z",
+      "topics": [
+        "devops",
+        "cloud-computing",
+        "software-engineering",
+        "kubernetes",
+        "artificial-intelligence"
+      ]
+    },
     {
       "guid": "https://medium.com/p/059825e910c8",
       "title": "Pod Disruption Budgets: The Production Safeguard Everyone Forgets",
