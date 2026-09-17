@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-16T10:43:10.031Z",
+  "lastSyncedAt": "2026-09-17T10:50:50.740Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/848688e35a8a",
+      "title": "Lambda Is Slow and Expensive. Here’s How to Fix It.",
+      "url": "https://medium.com/kotaicode/lambda-is-slow-and-expensive-heres-how-to-fix-it-848688e35a8a",
+      "publishedAt": "2026-09-17T10:01:04.000Z",
+      "topics": [
+        "software-engineering",
+        "programming",
+        "cloud-computing",
+        "devops",
+        "aws"
+      ]
+    },
     {
       "guid": "https://medium.com/p/7b3468a1cf05",
       "title": "Human-in-the-Loop AI Agents for Production Operations",
