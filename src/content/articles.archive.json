@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-17T10:50:50.740Z",
+  "lastSyncedAt": "2026-09-18T10:26:14.361Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/0f3425c27e07",
+      "title": "Your Docker Image Has Secrets in It Even After You Deleted Them",
+      "url": "https://medium.com/kotaicode/your-docker-image-has-secrets-in-it-even-after-you-deleted-them-0f3425c27e07",
+      "publishedAt": "2026-09-18T10:01:03.000Z",
+      "topics": [
+        "docker",
+        "cloud-computing",
+        "software-engineering",
+        "aws",
+        "devops"
+      ]
+    },
     {
       "guid": "https://medium.com/p/848688e35a8a",
       "title": "Lambda Is Slow and Expensive. Here’s How to Fix It.",
