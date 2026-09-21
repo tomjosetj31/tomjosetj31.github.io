@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-18T10:26:14.361Z",
+  "lastSyncedAt": "2026-09-21T11:47:19.231Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/d3bfdef9c3d7",
+      "title": "What Actually Happens When a Kubernetes Service Receives Traffic?",
+      "url": "https://medium.com/kotaicode/what-actually-happens-when-a-kubernetes-service-receives-traffic-d3bfdef9c3d7",
+      "publishedAt": "2026-09-21T10:01:04.000Z",
+      "topics": [
+        "aws",
+        "kubernetes",
+        "cloud-computing",
+        "devops",
+        "software-engineering"
+      ]
+    },
     {
       "guid": "https://medium.com/p/0f3425c27e07",
       "title": "Your Docker Image Has Secrets in It Even After You Deleted Them",
