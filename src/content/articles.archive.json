@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-21T11:47:19.231Z",
+  "lastSyncedAt": "2026-09-22T10:49:28.442Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/001e811d400a",
+      "title": "7 GitOps Mistakes That Can Break Your Production Cluster",
+      "url": "https://medium.com/kotaicode/7-gitops-mistakes-that-can-break-your-production-cluster-001e811d400a",
+      "publishedAt": "2026-09-22T10:01:03.000Z",
+      "topics": [
+        "software-engineering",
+        "devops",
+        "kubernetes",
+        "gitops",
+        "cloud-computing"
+      ]
+    },
     {
       "guid": "https://medium.com/p/d3bfdef9c3d7",
       "title": "What Actually Happens When a Kubernetes Service Receives Traffic?",
