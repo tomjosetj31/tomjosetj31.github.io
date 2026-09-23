@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-22T10:49:28.442Z",
+  "lastSyncedAt": "2026-09-23T10:39:01.271Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/bbd4770ed620",
+      "title": "Your Dashboards Have 40 Panels. Engineers Check 3 of Them During Incidents",
+      "url": "https://medium.com/kotaicode/your-dashboards-have-40-panels-engineers-check-3-of-them-during-incidents-bbd4770ed620",
+      "publishedAt": "2026-09-23T10:01:03.000Z",
+      "topics": [
+        "devops",
+        "software-engineering",
+        "cloud-computing",
+        "kubernetes",
+        "grafana"
+      ]
+    },
     {
       "guid": "https://medium.com/p/001e811d400a",
       "title": "7 GitOps Mistakes That Can Break Your Production Cluster",
