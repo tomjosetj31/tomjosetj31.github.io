@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-09-24T10:58:36.818Z",
+  "lastSyncedAt": "2026-09-25T10:59:16.243Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/9597f7d12412",
+      "title": "Three-Tier Web Architecture on AWS: A Production Guide",
+      "url": "https://medium.com/kotaicode/three-tier-web-architecture-on-aws-a-production-guide-9597f7d12412",
+      "publishedAt": "2026-09-25T07:46:01.000Z",
+      "topics": [
+        "aws",
+        "cloud-computing",
+        "cloud-architecture",
+        "software-engineering",
+        "devops"
+      ]
+    },
     {
       "guid": "https://medium.com/p/a7ca268e449b",
       "title": "Argo CD in Production: The Security Configuration Nobody Told You About",
