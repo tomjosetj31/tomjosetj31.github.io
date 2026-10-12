@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-09T12:27:47.697Z",
+  "lastSyncedAt": "2026-10-12T14:13:05.678Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/36efe3963631",
+      "title": "Decoupled and Asynchronous Processing on AWS: A Production Guide",
+      "url": "https://medium.com/kotaicode/decoupled-and-asynchronous-processing-on-aws-a-production-guide-36efe3963631",
+      "publishedAt": "2026-10-12T10:01:12.000Z",
+      "topics": [
+        "cloud-computing",
+        "cloud-architecture",
+        "software-engineering",
+        "aws",
+        "devops"
+      ]
+    },
     {
       "guid": "https://medium.com/p/8416c5d81bb7",
       "title": "Designing Kubernetes Clusters That Survive Availability Zone Failures",
