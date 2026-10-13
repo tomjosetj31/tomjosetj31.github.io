@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-12T14:13:05.678Z",
+  "lastSyncedAt": "2026-10-13T13:23:31.035Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/e16c15dabe89",
+      "title": "Why Kubernetes Finalizers Can Leave Resources Stuck Forever",
+      "url": "https://medium.com/kotaicode/why-kubernetes-finalizers-can-leave-resources-stuck-forever-e16c15dabe89",
+      "publishedAt": "2026-10-13T10:01:04.000Z",
+      "topics": [
+        "aws",
+        "devops",
+        "cloud-computing",
+        "software-engineering",
+        "kubernetes"
+      ]
+    },
     {
       "guid": "https://medium.com/p/36efe3963631",
       "title": "Decoupled and Asynchronous Processing on AWS: A Production Guide",
