@@ -1,8 +1,34 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-13T13:23:31.035Z",
+  "lastSyncedAt": "2026-10-14T11:02:08.302Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/54f35ddcc538",
+      "title": "How to Design Stateless Applications for AWS Auto Scaling",
+      "url": "https://medium.com/kotaicode/how-to-design-stateless-applications-for-aws-auto-scaling-54f35ddcc538",
+      "publishedAt": "2026-10-14T10:01:06.000Z",
+      "topics": [
+        "devops",
+        "aws",
+        "cloud-computing",
+        "software-engineering",
+        "cloud-architecture"
+      ]
+    },
+    {
+      "guid": "https://medium.com/p/7beedd3d261e",
+      "title": "You Know Me for Kubernetes. Here’s What Else I Build",
+      "url": "https://medium.com/@Tomjosetj31/you-know-me-for-kubernetes-heres-what-else-i-build-7beedd3d261e",
+      "publishedAt": "2026-10-14T05:01:02.000Z",
+      "topics": [
+        "macos",
+        "programming",
+        "indiehackers",
+        "software-development",
+        "side-hustle"
+      ]
+    },
     {
       "guid": "https://medium.com/p/e16c15dabe89",
       "title": "Why Kubernetes Finalizers Can Leave Resources Stuck Forever",
