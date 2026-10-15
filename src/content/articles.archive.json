@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-14T11:02:08.302Z",
+  "lastSyncedAt": "2026-10-15T10:45:01.415Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/9a4be8a025cc",
+      "title": "Why One Changed File Rebuilds Your Entire Docker Image",
+      "url": "https://medium.com/kotaicode/why-one-changed-file-rebuilds-your-entire-docker-image-9a4be8a025cc",
+      "publishedAt": "2026-10-15T10:01:03.000Z",
+      "topics": [
+        "containers",
+        "software-engineering",
+        "programming",
+        "devops",
+        "docker"
+      ]
+    },
     {
       "guid": "https://medium.com/p/54f35ddcc538",
       "title": "How to Design Stateless Applications for AWS Auto Scaling",
