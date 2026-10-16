@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-15T10:45:01.415Z",
+  "lastSyncedAt": "2026-10-16T10:32:27.823Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/1f28e1d6ef52",
+      "title": "How I Would Design Kubernetes for 100+ Microservices",
+      "url": "https://medium.com/kotaicode/how-i-would-design-kubernetes-for-100-microservices-1f28e1d6ef52",
+      "publishedAt": "2026-10-16T09:21:01.000Z",
+      "topics": [
+        "aws",
+        "software-engineering",
+        "devops",
+        "cloud-computing",
+        "kubernetes"
+      ]
+    },
     {
       "guid": "https://medium.com/p/9a4be8a025cc",
       "title": "Why One Changed File Rebuilds Your Entire Docker Image",
