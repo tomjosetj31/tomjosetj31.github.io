@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-16T10:32:27.823Z",
+  "lastSyncedAt": "2026-10-19T11:53:39.063Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/c63dae4dc2cd",
+      "title": "Canary Deployments in Kubernetes: How to Release New Versions Without Breaking Production",
+      "url": "https://medium.com/kotaicode/canary-deployments-in-kubernetes-how-to-release-new-versions-without-breaking-production-c63dae4dc2cd",
+      "publishedAt": "2026-10-19T09:01:02.000Z",
+      "topics": [
+        "kubernetes",
+        "devops",
+        "aws",
+        "software-development",
+        "cloud-computing"
+      ]
+    },
     {
       "guid": "https://medium.com/p/1f28e1d6ef52",
       "title": "How I Would Design Kubernetes for 100+ Microservices",
