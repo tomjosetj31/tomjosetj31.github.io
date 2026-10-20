@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-19T11:53:39.063Z",
+  "lastSyncedAt": "2026-10-20T10:50:12.502Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/9c8d48d22e80",
+      "title": "Running Databases on Kubernetes: When You Should and Shouldn’t",
+      "url": "https://medium.com/kotaicode/running-databases-on-kubernetes-when-you-should-and-shouldnt-9c8d48d22e80",
+      "publishedAt": "2026-10-20T09:01:04.000Z",
+      "topics": [
+        "cloud-computing",
+        "kubernetes",
+        "devops",
+        "aws",
+        "software-engineering"
+      ]
+    },
     {
       "guid": "https://medium.com/p/c63dae4dc2cd",
       "title": "Canary Deployments in Kubernetes: How to Release New Versions Without Breaking Production",
