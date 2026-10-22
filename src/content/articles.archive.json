@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-21T11:02:07.545Z",
+  "lastSyncedAt": "2026-10-22T11:01:08.771Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/eef5415b24ec",
+      "title": "10 Kubernetes Problems Every DevOps Engineer Should Know How to Debug",
+      "url": "https://medium.com/kotaicode/10-kubernetes-problems-every-devops-engineer-should-know-how-to-debug-eef5415b24ec",
+      "publishedAt": "2026-10-22T09:31:02.000Z",
+      "topics": [
+        "software-engineering",
+        "aws",
+        "kubernetes",
+        "cloud-computing",
+        "devops"
+      ]
+    },
     {
       "guid": "https://medium.com/p/47a8512a5733",
       "title": "Multi-Region Disaster Recovery on AWS: A Production Guide",
