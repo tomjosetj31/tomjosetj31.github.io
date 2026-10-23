@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-22T11:01:08.771Z",
+  "lastSyncedAt": "2026-10-23T10:54:15.696Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/921876db95b6",
+      "title": "The Hidden Cost of Moving Data Between AWS Services",
+      "url": "https://medium.com/kotaicode/the-hidden-cost-of-moving-data-between-aws-services-921876db95b6",
+      "publishedAt": "2026-10-23T04:36:01.000Z",
+      "topics": [
+        "finops",
+        "kubernetes",
+        "cloud-computing",
+        "aws",
+        "devops"
+      ]
+    },
     {
       "guid": "https://medium.com/p/eef5415b24ec",
       "title": "10 Kubernetes Problems Every DevOps Engineer Should Know How to Debug",
