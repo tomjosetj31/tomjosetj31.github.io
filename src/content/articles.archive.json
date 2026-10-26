@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-23T10:54:15.696Z",
+  "lastSyncedAt": "2026-10-26T12:07:20.091Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/de478737ac67",
+      "title": "Your Docker Image Works on Your Mac. CI Says Otherwise.",
+      "url": "https://medium.com/kotaicode/your-docker-image-works-on-your-mac-ci-says-otherwise-de478737ac67",
+      "publishedAt": "2026-10-26T10:11:01.000Z",
+      "topics": [
+        "docker",
+        "aws",
+        "containers",
+        "software-engineering",
+        "devops"
+      ]
+    },
     {
       "guid": "https://medium.com/p/921876db95b6",
       "title": "The Hidden Cost of Moving Data Between AWS Services",
