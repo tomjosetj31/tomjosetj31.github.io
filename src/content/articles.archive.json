@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-26T12:07:20.091Z",
+  "lastSyncedAt": "2026-10-27T11:28:27.846Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/ea2f0094c7e6",
+      "title": "How Attackers Exploit Over-Permissive Kubernetes ServiceAccounts",
+      "url": "https://medium.com/kotaicode/how-attackers-exploit-over-permissive-kubernetes-serviceaccounts-ea2f0094c7e6",
+      "publishedAt": "2026-10-27T07:31:01.000Z",
+      "topics": [
+        "cloud-security",
+        "devops",
+        "cloud-computing",
+        "software-engineering",
+        "kubernetes"
+      ]
+    },
     {
       "guid": "https://medium.com/p/de478737ac67",
       "title": "Your Docker Image Works on Your Mac. CI Says Otherwise.",
