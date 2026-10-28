@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-27T11:28:27.846Z",
+  "lastSyncedAt": "2026-10-28T11:59:02.866Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/c2053023fd2d",
+      "title": "HPA vs VPA vs KEDA: Choosing the Right Kubernetes Autoscaling Strategy",
+      "url": "https://medium.com/kotaicode/hpa-vs-vpa-vs-keda-choosing-the-right-kubernetes-autoscaling-strategy-c2053023fd2d",
+      "publishedAt": "2026-10-28T09:01:03.000Z",
+      "topics": [
+        "devops",
+        "software-engineering",
+        "cloud-computing",
+        "aws",
+        "kubernetes"
+      ]
+    },
     {
       "guid": "https://medium.com/p/ea2f0094c7e6",
       "title": "How Attackers Exploit Over-Permissive Kubernetes ServiceAccounts",
