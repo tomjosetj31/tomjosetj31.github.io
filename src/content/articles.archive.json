@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-28T11:59:02.866Z",
+  "lastSyncedAt": "2026-10-30T11:59:59.349Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/f6850df98bcb",
+      "title": "Building an Internal Developer Platform on Top of Kubernetes",
+      "url": "https://medium.com/kotaicode/building-an-internal-developer-platform-on-top-of-kubernetes-f6850df98bcb",
+      "publishedAt": "2026-10-30T08:31:01.000Z",
+      "topics": [
+        "platform-engineering",
+        "kubernetes",
+        "devops",
+        "cloud-computing",
+        "software-engineering"
+      ]
+    },
     {
       "guid": "https://medium.com/p/c2053023fd2d",
       "title": "HPA vs VPA vs KEDA: Choosing the Right Kubernetes Autoscaling Strategy",
