@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-10-30T11:59:59.349Z",
+  "lastSyncedAt": "2026-11-02T14:34:37.738Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/141ce1b499d9",
+      "title": "How to Manage Dev, Staging, and Production in Kubernetes Without Duplicating YAML",
+      "url": "https://medium.com/kotaicode/how-to-manage-dev-staging-and-production-in-kubernetes-without-duplicating-yaml-141ce1b499d9",
+      "publishedAt": "2026-11-02T04:31:02.000Z",
+      "topics": [
+        "kubernetes",
+        "software-engineering",
+        "aws",
+        "cloud-computing",
+        "devops"
+      ]
+    },
     {
       "guid": "https://medium.com/p/f6850df98bcb",
       "title": "Building an Internal Developer Platform on Top of Kubernetes",
