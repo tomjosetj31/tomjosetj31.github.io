@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-02T14:34:37.738Z",
+  "lastSyncedAt": "2026-11-03T13:29:29.137Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/abdc24745cf7",
+      "title": "The Hidden Danger of Argo CD’s Prune and Self-Heal Features",
+      "url": "https://medium.com/kotaicode/the-hidden-danger-of-argo-cds-prune-and-self-heal-features-abdc24745cf7",
+      "publishedAt": "2026-11-03T04:31:03.000Z",
+      "topics": [
+        "devops",
+        "kubernetes",
+        "software-engineering",
+        "cloud-computing",
+        "argo-cd"
+      ]
+    },
     {
       "guid": "https://medium.com/p/141ce1b499d9",
       "title": "How to Manage Dev, Staging, and Production in Kubernetes Without Duplicating YAML",
