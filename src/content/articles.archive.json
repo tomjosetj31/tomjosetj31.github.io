@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-03T13:29:29.137Z",
+  "lastSyncedAt": "2026-11-04T13:40:27.050Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/3b559955e1d0",
+      "title": "Why Kubernetes Namespaces Aren’t a Real Security Boundary",
+      "url": "https://medium.com/kotaicode/why-kubernetes-namespaces-arent-a-real-security-boundary-3b559955e1d0",
+      "publishedAt": "2026-11-04T04:31:04.000Z",
+      "topics": [
+        "cloud-computing",
+        "kubernetes",
+        "aws",
+        "software-engineering",
+        "devops"
+      ]
+    },
     {
       "guid": "https://medium.com/p/abdc24745cf7",
       "title": "The Hidden Danger of Argo CD’s Prune and Self-Heal Features",
