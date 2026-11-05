@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-04T13:40:27.050Z",
+  "lastSyncedAt": "2026-11-05T13:53:02.113Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/114ed1df95c6",
+      "title": "EKS Pod Identity vs IRSA: Which Should You Use in Production?",
+      "url": "https://medium.com/kotaicode/eks-pod-identity-vs-irsa-which-should-you-use-in-production-114ed1df95c6",
+      "publishedAt": "2026-11-05T04:31:02.000Z",
+      "topics": [
+        "cloud-computing",
+        "software-engineering",
+        "devops",
+        "kubernetes",
+        "aws"
+      ]
+    },
     {
       "guid": "https://medium.com/p/3b559955e1d0",
       "title": "Why Kubernetes Namespaces Aren’t a Real Security Boundary",
