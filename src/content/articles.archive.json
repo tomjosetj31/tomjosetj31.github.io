@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-05T13:53:02.113Z",
+  "lastSyncedAt": "2026-11-06T13:38:45.454Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/0cf4c6bc427b",
+      "title": "7 CI/CD Mistakes That Can Take Down Production",
+      "url": "https://medium.com/kotaicode/7-ci-cd-mistakes-that-can-take-down-production-0cf4c6bc427b",
+      "publishedAt": "2026-11-06T04:36:01.000Z",
+      "topics": [
+        "software-engineering",
+        "ci-cd-pipeline",
+        "devops",
+        "cloud-computing",
+        "kubernetes"
+      ]
+    },
     {
       "guid": "https://medium.com/p/114ed1df95c6",
       "title": "EKS Pod Identity vs IRSA: Which Should You Use in Production?",
