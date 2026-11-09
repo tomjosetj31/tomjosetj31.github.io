@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-06T13:38:45.454Z",
+  "lastSyncedAt": "2026-11-09T14:57:33.963Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/341b0aae70d8",
+      "title": "The GitOps Bootstrap Problem: Who Deploys Argo CD Before Argo CD Exists?",
+      "url": "https://medium.com/kotaicode/the-gitops-bootstrap-problem-who-deploys-argo-cd-before-argo-cd-exists-341b0aae70d8",
+      "publishedAt": "2026-11-09T04:31:02.000Z",
+      "topics": [
+        "software-engineering",
+        "argo-cd",
+        "kubernetes",
+        "devops",
+        "cloud-computing"
+      ]
+    },
     {
       "guid": "https://medium.com/p/0cf4c6bc427b",
       "title": "7 CI/CD Mistakes That Can Take Down Production",
