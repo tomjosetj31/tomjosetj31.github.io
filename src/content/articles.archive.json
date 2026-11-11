@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-10T14:10:47.422Z",
+  "lastSyncedAt": "2026-11-11T13:26:23.920Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/445a5b87c357",
+      "title": "Your CPU Usage Is Low, but Your Application Is Slow. Here’s Why.",
+      "url": "https://medium.com/kotaicode/your-cpu-usage-is-low-but-your-application-is-slow-heres-why-445a5b87c357",
+      "publishedAt": "2026-11-11T04:36:01.000Z",
+      "topics": [
+        "kubernetes",
+        "aws",
+        "devops",
+        "cloud-computing",
+        "software-engineering"
+      ]
+    },
     {
       "guid": "https://medium.com/p/095619a4b0d8",
       "title": "Helm in Argo CD Isn’t Helm",
