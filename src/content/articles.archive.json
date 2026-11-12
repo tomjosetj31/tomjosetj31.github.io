@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-11T13:26:23.920Z",
+  "lastSyncedAt": "2026-11-12T14:30:30.620Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/ebd273a39c72",
+      "title": "Terraform Plan Says No Changes, but Your Infrastructure Is Still Wrong",
+      "url": "https://medium.com/kotaicode/terraform-plan-says-no-changes-but-your-infrastructure-is-still-wrong-ebd273a39c72",
+      "publishedAt": "2026-11-12T04:36:01.000Z",
+      "topics": [
+        "terraform",
+        "cloud-computing",
+        "aws",
+        "devops",
+        "software-engineering"
+      ]
+    },
     {
       "guid": "https://medium.com/p/445a5b87c357",
       "title": "Your CPU Usage Is Low, but Your Application Is Slow. Here’s Why.",
