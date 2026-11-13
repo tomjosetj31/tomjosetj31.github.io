@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-12T14:30:30.620Z",
+  "lastSyncedAt": "2026-11-13T13:48:30.887Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/c6b55f93fb91",
+      "title": "The CI/CD Race Condition That Deployed an Older Version to Production",
+      "url": "https://medium.com/kotaicode/the-ci-cd-race-condition-that-deployed-an-older-version-to-production-c6b55f93fb91",
+      "publishedAt": "2026-11-13T04:41:01.000Z",
+      "topics": [
+        "programming",
+        "ci-cd-pipeline",
+        "software-engineering",
+        "devops",
+        "continuous-integration"
+      ]
+    },
     {
       "guid": "https://medium.com/p/ebd273a39c72",
       "title": "Terraform Plan Says No Changes, but Your Infrastructure Is Still Wrong",
