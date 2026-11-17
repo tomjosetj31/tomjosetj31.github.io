@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-13T13:48:30.887Z",
+  "lastSyncedAt": "2026-11-17T15:24:05.589Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/c2d90b2ff686",
+      "title": "Why Your Production Application Fails Only During Peak Traffic",
+      "url": "https://medium.com/kotaicode/why-your-production-application-fails-only-during-peak-traffic-c2d90b2ff686",
+      "publishedAt": "2026-11-17T04:36:01.000Z",
+      "topics": [
+        "devops",
+        "performance",
+        "cloud-computing",
+        "kubernetes",
+        "software-engineering"
+      ]
+    },
     {
       "guid": "https://medium.com/p/c6b55f93fb91",
       "title": "The CI/CD Race Condition That Deployed an Older Version to Production",
