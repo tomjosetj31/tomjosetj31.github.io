@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-17T15:24:05.589Z",
+  "lastSyncedAt": "2026-11-18T14:58:19.896Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/95cda0ca829a",
+      "title": "How to Build Reusable GitHub Actions Workflows for 100+ Repositories",
+      "url": "https://medium.com/kotaicode/how-to-build-reusable-github-actions-workflows-for-100-repositories-95cda0ca829a",
+      "publishedAt": "2026-11-18T04:31:03.000Z",
+      "topics": [
+        "github-actions",
+        "devops",
+        "platform-engineering",
+        "ci-cd-pipeline",
+        "software-engineering"
+      ]
+    },
     {
       "guid": "https://medium.com/p/c2d90b2ff686",
       "title": "Why Your Production Application Fails Only During Peak Traffic",
