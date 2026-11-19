@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-18T14:58:19.896Z",
+  "lastSyncedAt": "2026-11-19T15:05:54.169Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/83ca5b65b63d",
+      "title": "How to Design AWS IAM Roles That Cannot Be Escalated",
+      "url": "https://medium.com/kotaicode/how-to-design-aws-iam-roles-that-cannot-be-escalated-83ca5b65b63d",
+      "publishedAt": "2026-11-19T04:36:01.000Z",
+      "topics": [
+        "devops",
+        "cloud-computing",
+        "kubernetes",
+        "aws",
+        "security"
+      ]
+    },
     {
       "guid": "https://medium.com/p/95cda0ca829a",
       "title": "How to Build Reusable GitHub Actions Workflows for 100+ Repositories",
