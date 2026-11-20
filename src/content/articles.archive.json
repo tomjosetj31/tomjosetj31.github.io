@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-19T15:05:54.169Z",
+  "lastSyncedAt": "2026-11-20T14:47:10.275Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/f72471e2b40d",
+      "title": "Why Your CI/CD Pipeline Passes Tests but Still Ships Broken Software",
+      "url": "https://medium.com/kotaicode/why-your-ci-cd-pipeline-passes-tests-but-still-ships-broken-software-f72471e2b40d",
+      "publishedAt": "2026-11-20T04:31:04.000Z",
+      "topics": [
+        "software-engineering",
+        "devops",
+        "software-testing",
+        "kubernetes",
+        "continuous-integration"
+      ]
+    },
     {
       "guid": "https://medium.com/p/83ca5b65b63d",
       "title": "How to Design AWS IAM Roles That Cannot Be Escalated",
