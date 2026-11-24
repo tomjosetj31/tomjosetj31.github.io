@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-23T17:10:23.597Z",
+  "lastSyncedAt": "2026-11-24T16:52:40.860Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/ec78c38ea7a8",
+      "title": "Your Internal Developer Platform Doesn’t Need Kubernetes",
+      "url": "https://medium.com/kotaicode/your-internal-developer-platform-doesnt-need-kubernetes-ec78c38ea7a8",
+      "publishedAt": "2026-11-24T04:36:01.000Z",
+      "topics": [
+        "aws",
+        "kubernetes",
+        "software-engineering",
+        "platform-engineering",
+        "devops"
+      ]
+    },
     {
       "guid": "https://medium.com/p/39f1fb764b53",
       "title": "I Got Tired of Rebuilding My Desk Every Morning, So I Built Spaceload",
