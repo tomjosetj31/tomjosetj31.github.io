@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-24T16:52:40.860Z",
+  "lastSyncedAt": "2026-11-25T16:41:01.572Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/57e4b232b265",
+      "title": "The Hidden Cost of Logging Everything in Kubernetes",
+      "url": "https://medium.com/kotaicode/the-hidden-cost-of-logging-everything-in-kubernetes-57e4b232b265",
+      "publishedAt": "2026-11-25T04:41:01.000Z",
+      "topics": [
+        "aws",
+        "devops",
+        "observability",
+        "software-engineering",
+        "kubernetes"
+      ]
+    },
     {
       "guid": "https://medium.com/p/ec78c38ea7a8",
       "title": "Your Internal Developer Platform Doesn’t Need Kubernetes",
