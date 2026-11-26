@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-25T16:41:01.572Z",
+  "lastSyncedAt": "2026-11-26T16:14:31.314Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/7e995879fe5d",
+      "title": "Why Karpenter Keeps Replacing Your Kubernetes Nodes",
+      "url": "https://medium.com/kotaicode/why-karpenter-keeps-replacing-your-kubernetes-nodes-7e995879fe5d",
+      "publishedAt": "2026-11-26T05:01:02.000Z",
+      "topics": [
+        "devops",
+        "cloud-computing",
+        "kubernetes",
+        "software-engineering",
+        "aws"
+      ]
+    },
     {
       "guid": "https://medium.com/p/57e4b232b265",
       "title": "The Hidden Cost of Logging Everything in Kubernetes",
