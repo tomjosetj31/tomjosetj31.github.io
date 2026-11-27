@@ -1,8 +1,21 @@
 {
   "source": "https://medium.com/feed/@Tomjosetj31",
   "firstSeenAt": "2026-09-03",
-  "lastSyncedAt": "2026-11-26T16:14:31.314Z",
+  "lastSyncedAt": "2026-11-27T15:59:42.809Z",
   "articles": [
+    {
+      "guid": "https://medium.com/p/68820629783e",
+      "title": "VPC Endpoints Won’t Fix Your NAT Gateway Bill. Measuring Will.",
+      "url": "https://medium.com/kotaicode/vpc-endpoints-wont-fix-your-nat-gateway-bill-measuring-will-68820629783e",
+      "publishedAt": "2026-11-27T04:36:01.000Z",
+      "topics": [
+        "finops",
+        "devops",
+        "cloud-computing",
+        "kubernetes",
+        "aws"
+      ]
+    },
     {
       "guid": "https://medium.com/p/7e995879fe5d",
       "title": "Why Karpenter Keeps Replacing Your Kubernetes Nodes",
